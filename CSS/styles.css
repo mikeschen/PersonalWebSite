@@ -6,6 +6,11 @@
   margin: 20px 100px 100px 20px;
 }
 
+.aboutheader {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+
 .large {
   font-size: 20px;
 }
@@ -52,7 +57,7 @@ h1 {
 }
 
 .carousel-indicators .active {
-  background-color: #c0a062 !important;
+  background-color: #e6b658 !important;
 }
 
 .navbar-header {
