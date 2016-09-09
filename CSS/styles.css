@@ -29,6 +29,11 @@
   margin-bottom: 20px;
 }
 
+.padding {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
 h1 {
 	color: white;
   left: 0;

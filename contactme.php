@@ -12,8 +12,8 @@
 			$error_message = "Bad form input";
 		}
 
-		require_once("inc/phpmailer/class.phpmailer.php");
-		require_once("inc/phpmailer/class.smtp.php");
+		require("inc/phpmailer/class.phpmailer.php");
+		require("inc/phpmailer/class.smtp.php");
 
 		$mail = new PHPMailer();
 
@@ -32,7 +32,7 @@
 			$mail->SMTPAuth = true;
 			$mail->SMTPSecure = "ssl";
 			$mail->Host = "smtp.gmail.com";
-			$mail->Port = 587;
+			$mail->Port = 465;
 			$mail->isHTML(true);
 			$mail->Username = "mikeschendev@gmail.com";
 
@@ -40,7 +40,6 @@
 			$mail->Subject = "mikeschen.com message from" . $name;
 			$mail->Body    = $email_body;
 			$mail->addAddress("mikeschendev@gmail.com");
-			$mail->SMTPSecure = "tls";
 			$mail->AltBody = "This is the body in plain text for non-HTML mail clients";
 
 			if($mail->send()) {
@@ -94,5 +93,8 @@
 				<?php } ?>
 			</div>
 		</div>
+	<?php 
+		include("inc/footer.php");
+	?>
 	</body>
 </html>

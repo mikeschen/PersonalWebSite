@@ -29,7 +29,9 @@
           <div class="col-md-2">
           </div>
           <div class="col-md-12" align="middle">
+          <div class="padding">
          An Android app that tracks the number of steps you take, calories eaten and calories burned. Created with Virgilio Ramon de la Cruz, Polina Nenchev and Matt Rosanio.
+         </div>
           </div>
            <div class="col-md-4">
           </div>
@@ -55,9 +57,11 @@
           </div>
           <div class="col-md-2">
           </div>
-          <div class="col-md-12" align="middle">
-            An interval timer for users to hang on a rock climbing fingerboard for different amounts of hang pause and rest time.
-          </div>
+            <div class="col-md-12" align="middle">
+            <div class="padding">
+                An Android app interval timer for users to hang on a rock climbing fingerboard for different amounts of time.
+              </div>
+            </div>
            <div class="col-md-4">
           </div>
           <div class="col-md-2">
@@ -82,7 +86,9 @@
           <div class="col-md-2">
           </div>
           <div class="col-md-12" align="middle">
-            An app that scans or searchs for grocery items and records sugar content.<br>Created with Abby Rolling, Daren Schaad and Brad London.
+            <div class="padding">
+              An Android app that scans or searchs for grocery items and records sugar content.<br>Created with Abby Rolling, Daren Schaad and Brad London.
+            </div>
           </div>
           <div class="col-md-4">
           </div>
@@ -108,7 +114,9 @@
           <div class="col-md-2">
           </div>
           <div class="col-md-12" align="middle">
-            A micro news site for users to post headlines and stories, along with photos with the Creative Commons License from Flickr.
+            <div class="padding">
+              An Android micro news site app for users to post headlines and stories, along with photos with the Creative Commons License from Flickr.
+            </div>
           </div>
            <div class="col-md-4">
           </div>
@@ -131,7 +139,9 @@
           <div class="col-md-2">
           </div>
           <div class="col-md-12" align="middle">
-            My personal website showcasing my photography.
+            <div class="padding">
+              My personal website showcasing my photography using HTML, CSS, PHP and jQuery.
+            </div>
           </div>
           <div class="col-md-12">
             <a href="https://github.com/mikeschen/PersonalWebSite" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
@@ -146,7 +156,9 @@
             <div class="col-md-2">
             </div>
           <div class="col-md-12" align="middle">
-            A website where users can post questions and receive answers.
+            <div class="padding">
+              An Ember.js website where users can post questions and receive answers.
+            </div>
           </div>
             <div class="col-md-12">
               <a href="https://github.com/mikeschen/QuestionAndAnswer2.0EmberJS" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
@@ -165,11 +177,8 @@
         </a>
       </div>
     </div>
-    <div class="emailer" align="center">
-      <a href="mailto:mikeschenphoto@gmail.com">mikeschenphoto@gmail.com</a> |
-    602.540.8776 | Portland, OR |
-    &copy; 2016 Michael Schennum |
-    All Rights Reserved.
-    </div>
+  <?php
+    include("inc/footer.php");
+  ?>
   </body>
 </html>
