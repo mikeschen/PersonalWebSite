@@ -21,10 +21,14 @@
             <div class="col-md-2">
             </div>
             <div class="col-md-4">
-              <img src="Images/Apps/nexusFitMap1.jpg" class="img-responsive center-block" alt="fitmap1"/>
+              <a href="https://play.google.com/store/apps/details?id=com.mikeschen.www.fitnessapp" target="_blank">
+                <img src="Images/Apps/nexusFitMap1.jpg" class="img-responsive center-block" alt="fitmap1"/>
+              </a>
             </div>
             <div class="col-md-4">
-              <img src="Images/Apps/nexusFitMap2.jpg" class="img-responsive center-block" alt="fitmap2"/>
+              <a href="https://play.google.com/store/apps/details?id=com.mikeschen.www.fitnessapp" target="_blank">
+                <img src="Images/Apps/nexusFitMap2.jpg" class="img-responsive center-block" alt="fitmap2"/>
+              </a>
           </div>
           <div class="col-md-2">
           </div>
@@ -47,13 +51,17 @@
       </div>
 
         <div class="item">
-                  <div class="col-md-2">
-            </div>
-            <div class="col-md-4">
+          <div class="col-md-2">
+          </div>
+          <div class="col-md-4">
+            <a href="https://play.google.com/store/apps/details?id=com.mikeschen.www.hangboardrepeaters" target="_blank">
               <img src="Images/Apps/nexusHangboard1.jpg" class="img-responsive center-block" alt="hangboard1"/>
-            </div>
-            <div class="col-md-4">
+            </a>
+          </div>
+          <div class="col-md-4">
+            <a href="https://play.google.com/store/apps/details?id=com.mikeschen.www.hangboardrepeaters" target="_blank">
               <img src="Images/Apps/nexusHangboard2.jpg" class="img-responsive center-block" alt="hangboard2"/>
+            </a>
           </div>
           <div class="col-md-2">
           </div>
@@ -78,10 +86,14 @@
                <div class="col-md-2">
             </div>
             <div class="col-md-4">
-              <img src="Images/Apps/nexusSugarCrash1.jpg" class="img-responsive center-block" alt="sugarcrash1"/>
+              <a href="https://play.google.com/store/apps/details?id=com.epicodus.guest.sugarcrash" target="_blank">
+                <img src="Images/Apps/nexusSugarCrash1.jpg" class="img-responsive center-block" alt="sugarcrash1"/>
+              </a>
             </div>
             <div class="col-md-4">
-              <img src="Images/Apps/nexusSugarCrash2.jpg" class="img-responsive center-block" alt="sugarcrash2"/>
+              <a href="https://play.google.com/store/apps/details?id=com.epicodus.guest.sugarcrash" target="_blank">
+                <img src="Images/Apps/nexusSugarCrash2.jpg" class="img-responsive center-block" alt="sugarcrash2"/>
+              </a>
           </div>
           <div class="col-md-2">
           </div>
@@ -106,10 +118,14 @@
           <div class="col-md-2">
             </div>
             <div class="col-md-4">
-              <img src="Images/Apps/nexusThreeo1.jpg" class="img-responsive center-block" alt="Threeo1"/>
+              <a href="https://play.google.com/store/apps/details?id=com.mikeschen.www.threeo" target="_blank">
+                <img src="Images/Apps/nexusThreeo1.jpg" class="img-responsive center-block" alt="Threeo1"/>
+              </a>
             </div>
             <div class="col-md-4">
-              <img src="Images/Apps/nexusThreeo2.jpg" class="img-responsive center-block" alt="Threeo2"/>
+              <a href="https://play.google.com/store/apps/details?id=com.mikeschen.www.threeo" target="_blank">
+                <img src="Images/Apps/nexusThreeo2.jpg" class="img-responsive center-block" alt="Threeo2"/>
+              </a>
           </div>
           <div class="col-md-2">
           </div>
@@ -134,7 +150,7 @@
           <div class="col-md-2">
             </div>
             <div class="col-md-8">
-              <a href="http://www.mikeschen.com/index1.php"><img src="Images/Apps/photoweb.jpg" class="img-responsive center-block" alt="mikeschen.com"/></a>
+              <a href="mikeschenphoto" target="_blank"><img src="Images/Apps/photoweb.jpg" class="img-responsive center-block" alt="mikeschen.com"/></a>
             </div>
           <div class="col-md-2">
           </div>
@@ -151,7 +167,7 @@
             <div class="col-md-2">
             </div>
             <div class="col-md-8">
-              <a href="https://still-lowlands-91555.herokuapp.com"><img src="Images/Apps/ama.jpg" class="img-responsive center-block" alt="askmeanything"/></a>
+              <a href="https://still-lowlands-91555.herokuapp.com" target="_blank"><img src="Images/Apps/ama.jpg" class="img-responsive center-block" alt="askmeanything"/></a>
             </div>
             <div class="col-md-2">
             </div>

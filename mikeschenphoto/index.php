@@ -1,5 +1,5 @@
 <?php
-  $thisPage="Index1";
+  $thisPage="Index";
 ?>
 <html>
 <head>

@@ -41,7 +41,7 @@ $(document).ready(main);
 <nav>
 
 <div id="logo">
-<a href="index1.php"><img src="Images/schenLogo.gif"></a><br>
+<a href="index.php"><img src="Images/schenLogo.gif"></a><br>
 </div>
 <div>
 <ul>
@@ -137,7 +137,7 @@ $(document).ready(main);
 <div class="emailer">
 <ul>
 <li><a href="mailto:mikeschenphoto@gmail.com">mikeschenphoto@gmail.com</a>
-<li>602.540.8776 | Portland, OR
+<li>602.540.8776 | Phoenix, AZ
 <li>&copy; 2016 Michael Schennum
 <li>All Rights Reserved.
 </ul>

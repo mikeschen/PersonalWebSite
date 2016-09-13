@@ -20,21 +20,19 @@ body {
     text-decoration:underline; 
 }
 
-}
-
 a:link, a:visited { 
 color:#585858; 
 background:transparent; 
 text-decoration:none; 
 }
 
-a:hover{ 
+a:hover { 
 color:#585858; 
 background:transparent; 
 text-decoration:underline; 
 }
 
-a:active{ 
+a:active {  
 color:#585858
 background:transparent; 
 text-decoration:underline; 
@@ -54,7 +52,7 @@ text-decoration:underline;
 	color: 840000;
 }
 
-.emailer  a:visited{
+.emailer  a:visited {
 	color:840000;
 }
 
@@ -91,7 +89,7 @@ ul {
   margin-top: 20px;
 }
 
-#socialz img{
+#socialz img {
    width: 120px;
    float: right;
 }
@@ -118,7 +116,7 @@ and (max-device-width: 1024px) {
     nav .icon-menu {display: inherit;}
 }
 
-.menu{
+.menu {
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
