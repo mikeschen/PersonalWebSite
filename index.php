@@ -13,6 +13,7 @@
         <li data-target="#myCarousel" data-slide-to="3"></li>
         <li data-target="#myCarousel" data-slide-to="4"></li>
         <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
       </ol>
 
       <div class="carousel-inner" role="listbox">
@@ -163,21 +164,39 @@
             <a href="https://github.com/mikeschen/PersonalWebSite" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
           </div>
           </div>
+
           <div class="item">
             <div class="col-md-2">
             </div>
             <div class="col-md-8">
-              <a href="https://still-lowlands-91555.herokuapp.com" target="_blank"><img src="Images/Apps/ama.jpg" class="img-responsive center-block" alt="askmeanything"/></a>
+              <a href="https://ama-question-answer.herokuapp.com/" target="_blank"><img src="Images/Apps/ama.jpg" class="img-responsive center-block" alt="askmeanything"/></a>
             </div>
             <div class="col-md-2">
             </div>
           <div class="col-md-12" align="middle">
             <div class="padding">
-              An Ember.js website where users can post questions and receive answers.
+              An Ember.js web app using Firebase where users can post questions and receive answers.
             </div>
           </div>
             <div class="col-md-12">
               <a href="https://github.com/mikeschen/QuestionAndAnswer2.0EmberJS" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
+            </div>
+          </div>
+        <div class="item">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+              <a href="mealtracker" target="_blank"><img src="Images/Apps/mealtrack.jpg" class="img-responsive center-block" alt="Meal Tracker"/></a>
+            </div>
+            <div class="col-md-2">
+            </div>
+          <div class="col-md-12" align="middle">
+            <div class="padding">
+              An Angular 2 web app written with TypeScript that lets users add and edit meals to track their calories.
+            </div>
+          </div>
+            <div class="col-md-12">
+              <a href="https://github.com/mikeschen/20160325mealTrackerAngularCodeReview" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
             </div>
           </div>
         </div>
