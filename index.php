@@ -68,7 +68,7 @@
           </div>
             <div class="col-md-12" align="middle">
             <div class="padding">
-                An Android app interval timer for users to hang on a rock climbing fingerboard for different amounts of time.
+                An Android app interval timer for users to hang on a rock climbing fingerboard for different amounts of time. Includes workout database.
               </div>
             </div>
            <div class="col-md-4">
@@ -201,17 +201,16 @@
           </div>
         </div>
       </div>
-
-        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-        </a>
+          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+          </a>
+        </div>
       </div>
-    </div>
   <?php
     include("inc/footer.php");
   ?>

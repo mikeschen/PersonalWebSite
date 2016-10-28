@@ -55,6 +55,12 @@ h1 {
   margin-bottom:0px !important;
 }
 
+@media screen and (max-width: 920px) {
+  .carousel-indicators {
+    display:none !important;
+  }
+}
+
 .carousel-indicators {
   bottom:-50px !important;
 }
@@ -80,3 +86,5 @@ h1 {
 .navbar-left {
   padding-top: 4px;
 }
+
+
