@@ -23,7 +23,7 @@ include("menu.php");
 <br>
 
   <a href="https://www.facebook.com/michael.schennum" target="_blank"><img src="Images/face.gif" align="middle" width="125" alt="facebook" /></a>
-  <a href="http://instagram.com/mikeschenphoto" target="_blank"><img src="Images/instagram.gif" align="middle" width="125" alt="instagram" /></a><br>
+  <a href="http://instagram.com/mikeschphoto" target="_blank"><img src="Images/instagram.gif" align="middle" width="125" alt="instagram" /></a><br>
   <a href="https://twitter.com/MichaelSchennum" target="_blank"><img src="Images/twitter.gif" align="middle" width="125" alt="twitter" /></a><br>
 
 </div>

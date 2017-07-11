@@ -16,7 +16,7 @@
         <li><a href="https://github.com/mikeschen" target="_blank"><i class="fa fa-github fa-2x"></i></a></li>
         <li><a href="https://www.linkedin.com/in/mikeschen" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
         <li><a href="https://twitter.com/MichaelSchennum" target="_blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a></li>
-        <li><a href="https://www.instagram.com/mikeschenphoto/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com/mikeschphoto/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
         <li><a a href="https://www.facebook.com/michael.schennum" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
         <li><a href="contactme.php"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a></li>
       </ul>

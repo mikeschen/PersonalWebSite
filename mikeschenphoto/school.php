@@ -1,4 +1,4 @@
-photopages/<?php
+<?php
   $thisPage="SchoolRock";
 ?>
 <html>

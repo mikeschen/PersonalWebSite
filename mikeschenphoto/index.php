@@ -3,10 +3,9 @@
 ?>
 <html>
 <head>
-<link href="main.css" type="text/css" rel="stylesheet" />
 <meta charset="utf-8">
-
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link type="text/css" rel="stylesheet" href="main.css?version=12" />
 <title>
 PORTFOLIO
 </title>

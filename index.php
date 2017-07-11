@@ -68,7 +68,9 @@
           </div>
             <div class="col-md-12" align="middle">
             <div class="padding">
-                An Android app interval timer for users to hang on a rock climbing fingerboard for different amounts of time. Includes workout database.
+                An Android exercise interval timer app for users to hang on plastic rock climbing holds for different amounts of time. Includes workout database. 
+                <br>
+                Currently the top-rated rock climbing training app on the Google Play Store.
               </div>
             </div>
            <div class="col-md-4">
@@ -100,7 +102,7 @@
           </div>
           <div class="col-md-12" align="middle">
             <div class="padding">
-              An Android app that scans or searchs for grocery items and records sugar content.<br>Created with Abby Rolling, Daren Schaad and Brad London.
+              An Android app that scans UPC codes or searchs for grocery items and records their sugar content.<br>Created with Abby Rolling, Daren Schaad and Brad London.
             </div>
           </div>
           <div class="col-md-4">
@@ -182,7 +184,7 @@
               <a href="https://github.com/mikeschen/QuestionAndAnswer2.0EmberJS" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
             </div>
           </div>
-        <div class="item">
+<!--         <div class="item">
             <div class="col-md-2">
             </div>
             <div class="col-md-8">
@@ -197,6 +199,23 @@
           </div>
             <div class="col-md-12">
               <a href="https://github.com/mikeschen/20160325mealTrackerAngularCodeReview" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
+            </div>
+          </div> -->
+          <div class="item">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+              <a href="https://online-store-2fb4a.firebaseapp.com" target="_blank"><img src="Images/Apps/albuminator.jpg" class="img-responsive center-block" alt="Albuminator"/></a>
+            </div>
+            <div class="col-md-2">
+            </div>
+          <div class="col-md-12" align="middle">
+            <div class="padding">
+              Albuminator lets you keep a list of your favorite albums. It uses the Spotify API to search for your favorite artists and add them to your list.<br>Built with Angular 2, RxJS, Sass and Firebase.
+            </div>
+          </div>
+            <div class="col-md-12">
+              <a href="https://github.com/mikeschen/simple-online-music-store-ng2" target="_blank"><img class="center-block" src="Images/Logos/gitlogo.png" align="middle" alt="git hub code" /></a>
             </div>
           </div>
         </div>
